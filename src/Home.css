@@ -1,0 +1,35 @@
+h1.Indent {
+    padding-left: 0.5em;
+    font-family: Verdana;
+    font-size: xx-large;
+    font-weight: bold;
+    color: #1e1278;
+    vertical-align: middle;
+    line-height: 0.8;
+}
+
+h1.IndentSubMenu {
+    padding-left: 1em;
+    font-family: Verdana;
+    font-size: large;
+    font-weight: bold;
+    color: #1e1278;
+    vertical-align: middle;
+    line-height: 0.8;
+}
+
+.div_style {
+    width: 100%;
+    background-color: black;
+    vertical-align: middle;
+    line-height: 75px;
+}
+.container{
+    max-width: 1600px;
+    padding-bottom: 0rem;
+    flex: 10;
+}
+.footer-text{
+    font-size: 1.0rem;
+    color: blue;
+}
